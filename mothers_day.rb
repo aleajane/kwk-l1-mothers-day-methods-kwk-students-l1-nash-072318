@@ -2,4 +2,6 @@
 
 def mothers_day
   "Happy Mothers Day, Mom"
+end
+puts mothers_day 
 
